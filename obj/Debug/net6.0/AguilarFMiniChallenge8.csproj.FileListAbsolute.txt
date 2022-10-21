@@ -1,0 +1,15 @@
+C:\Users\ferna\OneDrive\Documents\GitRepository\AguilarFMiniChallenge8\bin\Debug\net6.0\AguilarFMiniChallenge8.exe
+C:\Users\ferna\OneDrive\Documents\GitRepository\AguilarFMiniChallenge8\bin\Debug\net6.0\AguilarFMiniChallenge8.deps.json
+C:\Users\ferna\OneDrive\Documents\GitRepository\AguilarFMiniChallenge8\bin\Debug\net6.0\AguilarFMiniChallenge8.runtimeconfig.json
+C:\Users\ferna\OneDrive\Documents\GitRepository\AguilarFMiniChallenge8\bin\Debug\net6.0\AguilarFMiniChallenge8.dll
+C:\Users\ferna\OneDrive\Documents\GitRepository\AguilarFMiniChallenge8\bin\Debug\net6.0\AguilarFMiniChallenge8.pdb
+C:\Users\ferna\OneDrive\Documents\GitRepository\AguilarFMiniChallenge8\obj\Debug\net6.0\AguilarFMiniChallenge8.csproj.AssemblyReference.cache
+C:\Users\ferna\OneDrive\Documents\GitRepository\AguilarFMiniChallenge8\obj\Debug\net6.0\AguilarFMiniChallenge8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ferna\OneDrive\Documents\GitRepository\AguilarFMiniChallenge8\obj\Debug\net6.0\AguilarFMiniChallenge8.AssemblyInfoInputs.cache
+C:\Users\ferna\OneDrive\Documents\GitRepository\AguilarFMiniChallenge8\obj\Debug\net6.0\AguilarFMiniChallenge8.AssemblyInfo.cs
+C:\Users\ferna\OneDrive\Documents\GitRepository\AguilarFMiniChallenge8\obj\Debug\net6.0\AguilarFMiniChallenge8.csproj.CoreCompileInputs.cache
+C:\Users\ferna\OneDrive\Documents\GitRepository\AguilarFMiniChallenge8\obj\Debug\net6.0\AguilarFMiniChallenge8.dll
+C:\Users\ferna\OneDrive\Documents\GitRepository\AguilarFMiniChallenge8\obj\Debug\net6.0\refint\AguilarFMiniChallenge8.dll
+C:\Users\ferna\OneDrive\Documents\GitRepository\AguilarFMiniChallenge8\obj\Debug\net6.0\AguilarFMiniChallenge8.pdb
+C:\Users\ferna\OneDrive\Documents\GitRepository\AguilarFMiniChallenge8\obj\Debug\net6.0\AguilarFMiniChallenge8.genruntimeconfig.cache
+C:\Users\ferna\OneDrive\Documents\GitRepository\AguilarFMiniChallenge8\obj\Debug\net6.0\ref\AguilarFMiniChallenge8.dll
