@@ -5,7 +5,7 @@
 // choose a difficulty and guess a number between 1-10, 1-50, or 1-100.
 // The program will track the number of guesses it took to get to the right number.
 // Include data validation and the ability to play again.
-// Peer Reviewed By:
+// Peer Reviewed By: Samuel Laguna - I ran the code it looks good everything looks right. This code is all good no problems here.
 
 Console.Clear();
 
